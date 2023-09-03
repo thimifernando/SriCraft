@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">SriCraft</string>
+    <string name="c_name">SRI</string>
+    <string name="c_name2">Craft</string>
+    <string name="admin">Hello Admin</string>
+    <string name="btn_users">Users</string>
+    <string name="btn_feedback">Feedback</string>
+    <string name="btn_contactus">ContactUS</string>
+    <string name="user_details_header">All User Details</string>
+    <string name="user_feedback">All User Details</string>
+    <string name="user_contactus_details">All Contactus Details</string>
+    <string name="intro_text">𝒲𝑒𝓁𝒸𝑜𝓂𝑒 𝒯𝑜 𝒮𝓇𝒾 𝒞𝓇𝒶𝒻𝓉</string>
+
+
+    <string name="welcome">Welcome</string>
+    <string name="footer4">Discount%</string>
+    <string name="footer3">20%</string>
+    <string name="footer2">March 20 - April 31</string>
+    <string name="footer1">Untill</string>
+
+    <string name="Coconut_Item_details1">Name</string>
+    <string name="Coconut_Item_details2">Price</string>
+    <string name="Coconut_Item_details3">Pricce</string>
+
+
+    <string name="category1">Coconut Shell</string>
+    <string name="category2">Wood Item</string>
+    <string name="category3">Sri Lanka Traditional Masks</string>
+    <string name="category4">Clay Item</string>
+
+
+</resources>

@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="logo_layout_width">93dp</dimen>
+    <dimen name="logo_layout_height">96dp</dimen>
+    <dimen name="logo_layout_marginEnd">16dp</dimen>
+    <dimen name="logo_layout_marginBottom">616dp</dimen>
+
+    <dimen name="c_name_layout_width">123dp</dimen>
+    <dimen name="c_name_layout_height">63dp</dimen>
+    <dimen name="c_name_layout_marginEnd">196dp</dimen>
+    <dimen name="c_name_layout_marginBottom">628dp</dimen>
+
+    <dimen name="c_name2_layout_width">114dp</dimen>
+    <dimen name="c_name2_layout_height">64dp</dimen>
+<!--    <dimen name="c_name2_layout_marginEnd">196dp</dimen>-->
+    <dimen name="c_name2_layout_marginBottom">580dp</dimen>
+
+    <dimen name="welcome_layout_width">278dp</dimen>
+    <dimen name="welcome_layout_height">78dp</dimen>
+    <!--    <dimen name="welcome_layout_marginEnd">196dp</dimen>-->
+    <dimen name="welcome_layout_marginBottom">516dp</dimen>
+
+    <dimen name="tableLayout_layout_width">match_parent</dimen>
+    <dimen name="tableLayout_layout_height">wrap_content</dimen>
+
+    <dimen name="tableLayout_row_layout_width">match_parent</dimen>
+    <dimen name="table_layout_row_height">match_parent</dimen>
+
+    <dimen name="LinearLayout_layout_width">match_parent</dimen>
+    <dimen name="LinearLayout_layout_height">match_parent</dimen>
+    <dimen name="LinearLayout_layout_margin">16dp</dimen>
+
+    <dimen name="LinearLayout_and_layout_height">match_parent</dimen>
+    <dimen name="LinearLayout_and_layout_width">match_parent</dimen>
+
+    <dimen name="AMain_T_row_layout_width">match_parent</dimen>
+    <dimen name="AMain_T_row_layout_height">165dp</dimen>
+
+    <dimen name="logout_layout_width">85dp</dimen>
+    <dimen name="logout_layout_height">87dp</dimen>
+    <dimen name="logout_layout_margin">8dp</dimen>
+
+    <dimen name="logout2_layout_width">50dp</dimen>
+    <dimen name="logout2_layout_height">30dp</dimen>
+    <dimen name="logout2_layout_marginEnd">16dp</dimen>
+    <dimen name="logout2_layout_marginBottom">24dp</dimen>
+
+    <dimen name="btn_user_layout_width">200dp</dimen>
+    <dimen name="btn_user_layout_height">53dp</dimen>
+    <dimen name="btn_user_layout_marginEnd">16dp</dimen>
+    <dimen name="btn_user_layout_marginBottom">24dp</dimen>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</resources>
